@@ -1,0 +1,42 @@
+{
+  "nav": { "work": "Work", "about": "About", "stack": "Stack", "contact": "Contact" },
+  "eyebrow": "Frontend / Full-stack Developer",
+  "heroTitle": "Taking a product from mockup to database.",
+  "heroText": "3 years building interfaces and the backends behind them. React and Next.js up front, Prisma and PostgreSQL underneath. Sites for Dubai, Chechnya, and Telegram — in two languages.",
+  "ctaPrimary": "See the work",
+  "ctaSecondary": "Get in touch",
+  "aboutEyebrow": "About",
+  "aboutTitle": "Trained in frontend, working full-stack",
+  "aboutText": "My diploma is in frontend development, but in practice I own the whole cycle: from React layouts to APIs, Prisma, and PostgreSQL. Over 3 years I built a site for a Dubai service business, a business-card site for a Chechen entrepreneur, and a Telegram Mini App with an admin panel — all three hand-coded, no builders or templates.",
+  "aboutText2": "Alongside development, I run P2P crypto exchanges — acting as a middleman between USDT buyers and sellers. It's not code, but it's exactly why I understand crypto-business products from the inside, not just from a spec.",
+  "stackEyebrow": "Stack",
+  "stackTitle": "How I move from interface to database",
+  "stackHint": "Click a technology to see which project it was used in",
+  "usedInLabel": "Used in:",
+  "layers": { "frontend": "Frontend", "backend": "Backend", "product": "Product" },
+  "workEyebrow": "Projects",
+  "workTitle": "Three products, three different problems",
+  "featured": "Flagship case",
+  "archTitle": "Architecture",
+  "beyondEyebrow": "Beyond development",
+  "beyondTitle": "Experience you won't find on a résumé",
+  "beyondText": "Beyond development, I run practical P2P crypto operations — buying and selling USDT as a middleman between both sides of a deal. That experience fed directly into building products for crypto businesses, from exchange landing pages to Telegram request forms.",
+  "servicesEyebrow": "Services",
+  "servicesTitle": "What I can help with",
+  "services": [
+    { "title": "Websites and web apps", "text": "Landing pages, business cards, multi-page sites on React / Next.js. From mockup to production, RU/EN included." },
+    { "title": "Telegram Mini Apps", "text": "Full web apps inside Telegram: request forms, a real database, and an admin panel to manage content." },
+    { "title": "Crypto business products", "text": "Sites for exchange businesses, live-rate displays, and integration with support and request bots." }
+  ],
+  "expEyebrow": "Experience",
+  "expTitle": "Timeline",
+  "exp": [
+    { "period": "2021", "title": "Frontend Development Course", "text": "Foundation: HTML/CSS/JS → React → Next.js, gradually moving into full-stack." },
+    { "period": "2022 — present", "title": "P2P Trader (USDT)", "text": "Acting as a middleman in crypto exchange — buying and selling USDT between both sides of a deal." },
+    { "period": "2023 — present", "title": "Freelance Full-stack Developer", "text": "Building websites and web apps for clients in Dubai, Chechnya, and beyond." }
+  ],
+  "contactEyebrow": "Contact",
+  "contactTitle": "Have a project? Let's talk",
+  "contactText": "Telegram is the fastest way to reach me. Open to one-off projects and longer collaborations.",
+  "footerText": "Built and maintained by me."
+}
