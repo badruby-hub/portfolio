@@ -57,7 +57,7 @@ export default function Hero({ locale, dict }: { locale: Locale; dict: any }) {
             <div className="absolute -inset-3.5 rounded-[20px] border border-accent opacity-45" />
             {!photoError ? (
               <img
-                src="/nazim-photo.jpg"
+                src="/nazim-photo.JPG"
                 alt="Nazim Fataliev"
                 onError={() => setPhotoError(true)}
                 className="block h-full w-full rounded-2xl border border-line object-cover"
