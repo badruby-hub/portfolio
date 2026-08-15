@@ -20,7 +20,16 @@ export function generateStaticParams() {
 
 export const metadata: Metadata = {
   title: "Nazim Fataliev — Frontend / Full-stack Developer",
-  description: "Frontend / Full-stack Developer portfolio — React, Next.js, Node.js, Prisma, PostgreSQL.",
+  description: "Frontend / Full-stack Developer portfolio ",
+   icons:{
+    icon:[
+      {url: "/logo-nf.png", sizes: "16x16", type: "image/png"},
+ 
+    ],
+    apple:[
+      {url: "/logo-nf.png", sizes: "256x256", type: "image/png"},
+    ]
+  }
 };
 
 export default function LocaleLayout({
