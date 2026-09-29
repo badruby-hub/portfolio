@@ -51,8 +51,8 @@ export const PROJECTS: Project[] = [
     url: "https://mesir-perfume.vercel.app/",
     tag: { ru: "Армения · Магазин парфюмерии", en: "Armenia · Perfume shop" },
     desc: {
-      ru: "Веб магазин для ознакомления и заказа парфюмерии актуальный товары, вся ключевая информация и прямые ссылки на поддержку и оформление заявок.",
-      en: "An online store for browsing and ordering fragrances, featuring current products, all key information, and direct links to customer support and order placement.",
+      ru: "Современный веб-магазин парфюмерии, созданный для удобного ознакомления с актуальным ассортиментом и оформления заказов. На сайте представлена вся необходимая информация о товарах, а также предусмотрены быстрые ссылки для связи с поддержкой и подачи заявок на заказ.",
+      en: "A modern online perfume store designed for easy browsing of the latest collection and convenient order placement. The website provides all essential product information, along with quick links to customer support and order requests.",
     },
     stack: ["React", "Next.js", "TypeScript", "CSS"],
   },
