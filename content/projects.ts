@@ -45,4 +45,15 @@ export const PROJECTS: Project[] = [
     },
     stack: ["React", "Next.js", "TypeScript", "CSS"],
   },
+  {
+    id: "mesir",
+    name: "MESIR-Perfume",
+    url: "https://mesir-perfume.vercel.app/",
+    tag: { ru: "Армения · Магазин парфюмерии", en: "Armenia · Perfume shop" },
+    desc: {
+      ru: "Веб магазин для ознакомления и заказа парфюмерии актуальный товары, вся ключевая информация и прямые ссылки на поддержку и оформление заявок.",
+      en: "An online store for browsing and ordering fragrances, featuring current products, all key information, and direct links to customer support and order placement.",
+    },
+    stack: ["React", "Next.js", "TypeScript", "CSS"],
+  },
 ];
